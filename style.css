@@ -63,9 +63,6 @@ a {
 	text-decoration: none;
 }
 /* Article */
-img {
-	width: 100%;
-}
 div {
 	display: block;
 }
@@ -84,6 +81,7 @@ div {
 }
 .img {
 	margin: 16px 0;
+	width: 100px;
 }
 .heading {
 	font-size: 36px;
